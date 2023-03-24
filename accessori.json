@@ -1,0 +1,82 @@
+[
+    {
+        "id" : 1,
+        "name" : "Sony PlayStation®5 - Pulse 3D Wireless Headset - Midnight Black",
+        "category" : "accessori",
+        "img" : "img/Sony PlayStation5 - Pulse 3D Wireless Headset - Midnight Black.jpeg",
+        "url" : "https://www.amazon.it/Sony-PlayStation®5-Wireless-Headset-Midnight/dp/B09GBY7632/ref=sr_1_1?crid=ETAD7ZH7A6X0&keywords=cuffie+ps5+sony+pulse+3d&qid=1655821540&sprefix=cuffie+ps5+Sony%2Caps%2C119&sr=8-1",
+        "price" : "71.99"
+    },
+    {
+        "id" : 2,
+        "name" : "Trust Gaming GXT 835 Azor Tastiera Gaming,Retroilluminata LED RGB",
+        "category" : "accessori",
+        "img" : "img/Trust Gaming GXT 835 Azor Tastiera Gaming,Retroilluminata LED RGB.jpeg",
+        "url" : "https://www.amazon.it/Trust-Gaming-Azor-Tastiera-Illuminata/dp/B0851CN3GC/ref=sr_1_5?keywords=tastiera+gaming&qid=1655822571&sprefix=tastiera+%2Caps%2C107&sr=8-5",
+        "price" : "16.99"
+    },
+    {
+        "id" : 3,
+        "name" : "UHURU Mouse Gaming Wireless e Cablato con 7 Pulsanti Programmabili, 10000 DPI, 7 Illuminazione RGB",
+        "category" : "accessori",
+        "img" : "img/UHURU Mouse Gaming Wireless e Cablato con 7 Pulsanti Programmabili, 10000 DPI, 7 Illuminazione RGB.jpeg",
+        "url" : "https://www.amazon.it/Modalità-Programmabili-Illuminazione-Ergonomico-Portatile/dp/B09295LXWL/ref=sr_1_3_sspa?keywords=mouse+gaming&qid=1655822695&sprefix=mouse%2Caps%2C170&sr=8-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzOUZOSVRFR1M3MzVYJmVuY3J5cHRlZElkPUEwMDYwMzY1M0pDOEFVOVQ3NEMySiZlbmNyeXB0ZWRBZElkPUEwNTgyMjU2M080RkVERFM4VEFFVyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=",
+        "price" : "35.99"
+    },
+    {
+        "id" : 4,
+        "name" : "Logitech G29 Driving Force Volante da Corsa con Pedali Regolabili, Volante in Pelle",
+        "category" : "accessori",
+        "img" : "img/Logitech G29 Driving Force Volante da Corsa con Pedali Regolabili, Volante in Pelle.jpeg",
+        "url" : "https://www.amazon.it/Volante-Corsa-Logitech-Driving-Force/dp/B00YUIM2J0/ref=sr_1_6?keywords=accessori%2Bgaming&qid=1655822811&sprefix=accessori%2B%2Caps%2C133&sr=8-6&th=1",
+        "price" : "229.00"
+    },
+    {
+        "id" : 5,
+        "name" : "Paladone Lampada Playstation Icons, multicolore",
+        "category" : "accessori",
+        "img" : "img/Paladone Lampada Playstation Icons, multicolore.jpeg",
+        "url" : "https://www.amazon.it/Paladone-PP4140PS-Lampada-Playstation-multicolore/dp/B079CBP6P9/ref=sr_1_12?__mk_it_IT=ÅMÅŽÕÑ&crid=3KHQC7WIZ90H6&keywords=accessori+gaming&qid=1655822926&sprefix=accessori+gaming%2Caps%2C114&sr=8-12",
+        "price" : "28.27"
+    },
+    {
+        "id" : 6,
+        "name" : "Trust Gaming GXT 232 Mantis Microfono USB per Streaming, Filtro Pop e Treppiede",
+        "category" : "accessori",
+        "img" : "img/Trust Gaming GXT 232 Mantis Microfono USB per Streaming, Filtro Pop e Treppiede.jpeg",
+        "url" : "https://www.amazon.it/Trust-Gaming-Mantis-Microfono-Streaming/dp/B07CZ6LWW4/ref=sr_1_27?__mk_it_IT=ÅMÅŽÕÑ&crid=3KHQC7WIZ90H6&keywords=accessori%2Bgaming&qid=1655822926&sprefix=accessori%2Bgaming%2Caps%2C114&sr=8-27&th=1",
+        "price" : "31.83"
+    },
+    {
+        "id" : 7,
+        "name" : "Funko Pop Heroes Joker Batman 1989",
+        "category" : "accessori",
+        "img" : "img/Funko Pop Heroes Joker Batman 1989.jpeg",
+        "url" : "https://www.amazon.it/Funko-Pop-Heroes-1989-Joker-Multicolore/dp/B07ZZP1Q57/ref=sr_1_10?__mk_it_IT=ÅMÅŽÕÑ&crid=2DQVCWV512PYR&keywords=funko+pop&qid=1655823287&sprefix=funko+pop%2Caps%2C110&sr=8-10",
+        "price" : "16.91"
+    },
+    {
+        "id" : 8,
+        "name" : "NERYM Portachiavi gadget Riproduzione Kilo 141 mimetica Nero Oro in metallo call of duty",
+        "category" : "accessori",
+        "img" : "img/NERYM Portachiavi gadget Riproduzione Kilo 141 mimetica Nero Oro in metallo call of duty.jpeg",
+        "url" : "https://www.amazon.it/NERYM-Portachiavi-Riproduzione-mimetica-resistente/dp/B09P41CZJK/ref=sr_1_23?__mk_it_IT=ÅMÅŽÕÑ&crid=1F5V6Q38E67PS&keywords=accessori+call+of+duty&qid=1655823810&sprefix=accessori+call+of+duty%2Caps%2C98&sr=8-23",
+        "price" : "7.99"
+    },
+    {
+        "id" : 9,
+        "name" : "Pokemon Astuccio per Matite - Portapenne - Cancelleria",
+        "category" : "accessori",
+        "img" : "img/Pokemon Astuccio per Matite - Portapenne - Cancelleria.jpeg",
+        "url" : "https://www.amazon.it/Pokemon-Portapenne-scolastiche-Organizzatore-Cancelleria/dp/B09RPXS2BS/ref=sr_1_3?keywords=portapenne+pokemon&qid=1655824339&sprefix=portapenne+pokemn%2Caps%2C119&sr=8-3",
+        "price" : "16.68"
+    },
+    {
+        "id" : 10,
+        "name" : "Funko Pop Portachiavi Spiderman",
+        "category" : "accessori",
+        "img" : "img/Funko POP portachiavi Spiderman.jpeg",
+        "url" : "https://www.amazon.it/Funko-57402-POP-Keychain-Anything/dp/B08WC5G6WP/ref=sr_1_15?crid=2P6C9UBVLPYP0&keywords=portachiavi+funko+pop+spiderman&qid=1655824859&sprefix=portachiavi+funko+pop+spi%2Caps%2C127&sr=8-15",
+        "price" : "14.99"
+    }
+]

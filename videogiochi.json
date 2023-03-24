@@ -1,0 +1,82 @@
+[
+    {
+        "id" : 1,
+        "name" : "Grand Theft Auto V - Premium Edition - PlayStation 4",
+        "category" : "videogiochi",
+        "img" : "img/gta5.jpg",
+        "url" : "https://www.amazon.it/Grand-Theft-Auto-Premium-Online/dp/B07CPB2PRC/ref=sr_1_1?crid=YCGTTIKFEY0M&keywords=gta5+per+ps4&qid=1656008028&sprefix=gta5%2Caps%2C114&sr=8-1",
+        "price" : "24.99"
+    },
+    {
+        "id" : 2,
+        "name" : "The Last of Us 2 - Playstation 4",
+        "category" : "videogiochi",
+        "img" : "img/TheLast.jpg",
+        "url" : "https://www.amazon.it/The-Last-of-Us-2/dp/B07DLS9N8V/ref=sr_1_2?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1DGWC6621LLU0&keywords=Arma+3&qid=1656008263&sprefix=arma+%2Caps%2C120&sr=8-2",
+        "price" : "19.99"
+    },
+    {
+        "id" : 3,
+        "name" : "Cyberpunk 2077 D1 Edition - Day-One - Playstation 4",
+        "category" : "videogiochi",
+        "img" : "img/CyberPunk.jpg",
+        "url" : "https://www.amazon.it/CYBERPUNK-2077-D1-Day-one-PlayStation/dp/B07S7RQST5/ref=sr_1_1?crid=2Q5JNDHM1RWLQ&keywords=cyberpunk+2077&qid=1656009990&sprefix=cyber%2Caps%2C101&sr=8-1",
+        "price" : "26.99"
+    },
+    {
+        "id" : 4,
+        "name" : "WWE 2K22 - - PlayStation 4, Standard Edition",
+        "category" : "videogiochi",
+        "img" : "img/2k22.jpg",
+        "url" : "https://www.amazon.it/WWE-2K22-PlayStation-Standard/dp/B09R4YFZ74/ref=sr_1_1?crid=1IZ022MK92B7S&keywords=wwe+2k22&qid=1656010112&sprefix=wwe%2Caps%2C106&sr=8-1",
+        "price" : "49.99"
+    },
+    {
+        "id" : 5,
+        "name" : "BORDERLANDS 3 ITA - PlayStation 4",
+        "category" : "videogiochi",
+        "img" : "img/Border.jpg",
+        "url" : "https://www.amazon.it/2K-Games-Borderlands-3-PlayStation/dp/B07QC3TTHR/ref=sr_1_2?crid=1O3979UL8YD09&keywords=borderlands+3&qid=1656012104&sprefix=borderlan%2Caps%2C133&sr=8-22",
+        "price" : "13.99"
+    },
+    {
+        "id" : 6,
+        "name" : "Far Cry 6 Limited Edition Ps4 - Esclusiva Amazon - Playstation 4",
+        "category" : "videogiochi",
+        "img" : "img/FarCry.jpg",
+        "url" : "https://www.amazon.it/Far-Cry-Limited-Ps4-Playstation/dp/B09B1KK1Z6/ref=sr_1_1?crid=1NYD0AQ61IBN6&keywords=far+cry+6+ps4&qid=1656012204&sprefix=far+c%2Caps%2C118&sr=8-1",
+        "price" : "67.99"
+    },
+    {
+        "id" : 7,
+        "name" : "Dying Light 2 Stay Human - Playstation 4",
+        "category" : "videogiochi",
+        "img" : "img/DyingLight2.jpg",
+        "url" : "https://www.amazon.it/Dying-Light-2-Playstation-4/dp/B08KKPH9FS/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=318FT3YJQUGOZ&keywords=dying+light+2+ps4&qid=1656012337&sprefix=dying+light+2+ps4%2Caps%2C94&sr=8-1",
+        "price" : "52.99"
+    },
+    {
+        "id" : 8,
+        "name" : "Farming Simulator 22 - PlayStation 4",
+        "category" : "videogiochi",
+        "img" : "img/Farming.jpg",
+        "url" : "https://www.amazon.it/Farming-Simulator-22-PlayStation-4/dp/B097Z2NNP7/ref=sr_1_1?crid=ZEBPD61FE3ZG&keywords=farming+simulator+22+ps4&qid=1656012475&sprefix=farming%2Caps%2C136&sr=8-1",
+        "price" : "46.99"
+    },
+    {
+        "id" : 9,
+        "name" : "Star Wars Jedi Fallen Order - PlayStation 4",
+        "category" : "videogiochi",
+        "img" : "img/StarWars.jpg",
+        "url" : "https://www.amazon.it/Star-Wars-Jedi-Fallen-Order/dp/B07QLSPXDK/ref=sr_1_1?crid=31FSK8CSJPH2G&keywords=star+wars+jedi+fallen+order+ps4&qid=1656013368&sprefix=star+wars+jed%2Caps%2C121&sr=8-1",
+        "price" : "29.97"
+    },
+    {
+        "id" : 10,
+        "name" : "Watch Dogs Legion - PlayStation 4",
+        "category" : "videogiochi",
+        "img" : "img/WatchDogs.jpg",
+        "url" : "https://www.amazon.it/Watch-Dogs-Legion-PlayStation-4/dp/B07SSV4P2T/ref=sr_1_1?crid=KEQ81QTRMXRV&keywords=watch+dogs+legion+ps4&qid=1656013443&sprefix=watch+do%2Caps%2C120&sr=8-1",
+        "price" : "19.99"
+    }
+]

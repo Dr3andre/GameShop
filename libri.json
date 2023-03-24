@@ -1,0 +1,84 @@
+[
+    {
+        "id":1,
+        "name": "The Witcher: il Guardiano degli innocenti(vol.1)",
+        "category": "Libro",
+        "price": "14.15",
+        "img":"img/The-Witcher(vol.1).jpeg", 
+        "url":"https://www.amazon.it/guardiano-degli-innocenti-witcher/dp/8842932418/ref=pd_bxgy_img_sccl_2/262-9583377-3716117?pd_rd_w=Ojhj4&content-id=amzn1.sym.021d3b67-e6af-4e84-bd7c-b0e39059f4f1&pf_rd_p=021d3b67-e6af-4e84-bd7c-b0e39059f4f1&pf_rd_r=8XS2R0WYY7BSFEYHM4NG&pd_rd_wg=5LDq7&pd_rd_r=e1af58fa-25cc-46ef-b174-81bbc12e7636&pd_rd_i=8842932418&psc=1"
+    },
+    {
+        "id":2,
+        "name": "Storia di una ladra di libri",
+        "category": "Libro",
+        "price": "10.35",
+        "img":"img/Ladra-di-libri.jpeg",
+        "url":"https://www.amazon.it/Storia-ladra-libri-Markus-Zusak/dp/8868364948/ref=sr_1_1?keywords=storia+di+una+ladra+di+libri&qid=1656006912&s=books&sprefix=storia+di+una+%2Cstripbooks%2C107&sr=1-1"
+    },
+    {
+        "id":3,
+        "name": "Harry Potter: il calice di fuoco",
+        "category": "Libro",
+        "price": "15.20",
+        "img":"img/Harry-Potter.jpeg",
+        "url":"https://www.amazon.it/Harry-Potter-calice-fuoco-4/dp/8831003410/ref=sr_1_1?keywords=harry+potter+e+il+calice+di+fuoco&qid=1656006965&s=books&sprefix=harry+potter+e+il+%2Cstripbooks%2C100&sr=1-1"
+    },
+    {
+        "id":4,
+        "name": "It",
+        "category": "Libro",
+        "price": "17.95",
+        "img":"img/It.jpeg",
+        "url":"https://www.amazon.it/Stephen-King/dp/8868365626/ref=sr_1_1?crid=2XMWTHJWX2KBG&keywords=it+stephen+king&qid=1656007031&s=books&sprefix=it%2Cstripbooks%2C109&sr=1-1"
+    },
+    {
+        "id":5,
+        "name": "The Witcher: la Spada Del Destino (vol.2)",
+        "category": "Libro",
+        "price": "14.15",
+        "img":"img/The-Witcher(vol.2).jpeg",
+        "url":"https://www.amazon.it/spada-del-destino-Witcher/dp/8842932426/?_encoding=UTF8&pd_rd_w=mBQsL&content-id=amzn1.sym.ac3930e8-c3bb-40cb-904a-13a39e11d378&pf_rd_p=ac3930e8-c3bb-40cb-904a-13a39e11d378&pf_rd_r=EB6YRJKY5PVG8ZVHFXFS&pd_rd_wg=6ljWd&pd_rd_r=391e2057-dd58-4986-8ca3-abc532434815&ref_=pd_gw_ci_mcx_mr_hp_atf_m"
+    },
+    {
+        "id":6,
+        "name": "After (vol.1)",
+        "category": "Libro",
+        "price": "12.35",
+        "img":"img/After.jpeg",
+        "url":"https://www.amazon.it/After-Nuova-ediz-Vol-1/dp/8855440705/ref=sr_1_1?crid=8V2CQBFPJCE0&keywords=after+libri&qid=1656007063&s=books&sprefix=After%2Cstripbooks%2C98&sr=1-1"
+    },
+    {
+        "id":7,
+        "name": "Hunger Games: la trilogia",
+        "category": "Libro",
+        "price": "22.80",
+        "img":"img/Hunger-Games.jpeg",
+        "url":"https://www.amazon.it/Hunger-games-trilogia-Suzanne-Collins/dp/880465824X/ref=sr_1_2?crid=1VYP2KEE8OUBK&keywords=hunger+games+libri&qid=1656007087&s=books&sprefix=hunger%2Cstripbooks%2C99&sr=1-2"
+    },
+    {
+        "id":8,
+        "name": "Twilight",
+        "category": "Libro",
+        "price": "12.34",
+        "img":"img/Twilight.jpeg",
+        "url":"https://www.amazon.it/Twilight-edizione-italiana-Vol-ebook/dp/B006FYKKVO/ref=sr_1_3?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2917AUZ56X989&keywords=twilight&qid=1656007110&s=books&sprefix=twilight%2Cstripbooks%2C100&sr=1-3"
+    },
+    {
+        "id":9,
+        "name": "Guida galattica per gli autostoppisti. Trilogia piu` che completa in cinque parti",
+        "category": "Libro",
+        "price": "26.59",
+        "img":"img/Guida-Galattica-per-autostoppisti.jpeg",
+        "url":"https://www.amazon.it/galattica-autostoppisti-Trilogia-completa-parti-Niente/dp/8804707372/ref=sr_1_3?crid=OJNDC0NOOJVY&keywords=guida+galattica+per+autostoppisti&qid=1656007157&s=books&sprefix=guida+ga%2Cstripbooks%2C87&sr=1-3"
+    },
+    {
+        "id":10,
+        "name": "Percy Jackson e gli dei dell'Olimpo: la saga completa",
+        "category": "Libro",
+        "price": "22.80",
+        "img":"img/Percy-Jackson.jpeg",
+        "url":"https://www.amazon.it/Ridere-Conf-Gdo-T-Cp/dp/8804734167/ref=sr_1_8?keywords=percy+jackson+libri&qid=1656007216&s=books&sprefix=percy%2Cstripbooks%2C102&sr=1-8"
+    }
+
+    
+]

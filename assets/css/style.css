@@ -1,0 +1,146 @@
+:root{
+	--light:#ffffff;
+	--dark:#05164e;
+	--secondary:#f49817;
+	--black:#000000;
+}
+.fotodaaggiustare{
+	width: 600px;
+	height: 600px;
+}
+body{
+	line-height: 1.5;
+	font-family: 'Poppins', sans-serif;
+}
+.light-mode {
+    background-color: var(--light);
+    color: var(--dark);
+	text-decoration-color: var(--black);
+    transition: all 2s;
+}
+.black{
+	color: #000000;
+}
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+.container{
+	max-width: 1170px;
+	margin:auto;
+}
+.width-fluid{
+    width: 100%;
+}
+.colore-arancione{
+	background-color: var(--secondary);
+	transition:all 2s;
+}
+.imageborder {
+	border-radius: 3px 3px 3px 3px;
+	border: 3px solid var(--secondary);
+	height: 63%;
+	width: 100%;
+}
+#size{
+	font-size: 30px;
+}
+#nero{
+	color: #000000;
+}
+#nero-1{
+	color: #000000;
+}
+#nero3{
+	color: #000000;
+}
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+ul{
+	list-style: none;
+}
+.footer{	
+    padding: 70px 0;	
+}
+.footer-col{
+   width: 25%;
+   padding: 0 15px;
+}
+.footer-col h4{
+	font-size: 18px;
+	text-transform: capitalize;
+	margin-bottom: 35px;
+	font-weight: 500;
+	position: relative;
+}
+.footer-col h4::before{
+	content: '';
+	position: absolute;
+	left: 8px;
+	bottom: -10px;
+	background-color: #000000;
+	height: 2px;
+	box-sizing: border-box;
+	width: 95%;
+}
+.footer-col ul li:not(:last-child){
+	margin-bottom: 10px;
+}
+.footer-col ul li a{
+	font-size: 16px;
+	text-transform: capitalize;
+	color: #000000;
+	text-decoration: none;
+	font-weight: 300;
+	color: #000000;
+	display: block;
+	transition: all 0.3s ease;
+}
+.footer-col ul li a:hover{
+	color: #000000;
+	padding-left: 8px;
+}
+.footer-col .social-links a{
+	display: inline-block;
+	height: 40px;
+	width: 40px;	
+	margin:0 10px 10px 0;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 50%;	
+	transition: all 0.5s ease;
+}
+
+
+/*responsive*/
+@media(max-width: 767px){
+  .footer-col{
+    width: 50%;
+    margin-bottom: 30px;
+}
+}
+@media(max-width: 574px){
+  .footer-col{
+    width: 100%;
+}
+}
+
+@media(max-width: 400px){
+	.logo{
+	  width: 100%;	  
+  }
+  }
+
+  @media(max-width: 400px){
+	.immagine{
+	  height: 320px;	  
+  }
+  }
+
+
+
+
+
